@@ -1,0 +1,1 @@
+SELECT DISTINCT url_id FROM request WHERE domain_id = ?;

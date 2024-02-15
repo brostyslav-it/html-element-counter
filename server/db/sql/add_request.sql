@@ -1,0 +1,1 @@
+INSERT INTO request (domain_id, url_id, element_id, time, duration, count) VALUES (?, ?, ?, ?, ?, ?);

@@ -1,0 +1,1 @@
+SELECT * FROM migrations_history WHERE name = ?;
