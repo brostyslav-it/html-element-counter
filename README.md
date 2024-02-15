@@ -5,6 +5,7 @@ This is a single-page website designed to run on a PHP server with MySQL. The pa
 Upon submission of the form (via AJAX), a designated area on the page will be dynamically updated with the following details:
 
 A. Request results: URL retrieved, Date & Time of response, Response time in milliseconds, Count of elements.
+
 B. Aggregate statistics for all requests:
     1. Total number of URLs from the same domain checked thus far.
     2. Average page retrieval time from that domain within the past 24 hours.
